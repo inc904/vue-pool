@@ -1,0 +1,6 @@
+export const imgList = [
+  'https://p5.ssl.qhimg.com/t0119c74624763dd070.png',
+  'https://p4.ssl.qhimg.com/t01adbe3351db853eb3.jpg',
+  'https://p2.ssl.qhimg.com/t01645cd5ba0c3b60cb.jpg',
+  'https://p4.ssl.qhimg.com/t01331ac159b58f5478.jpg',
+]
